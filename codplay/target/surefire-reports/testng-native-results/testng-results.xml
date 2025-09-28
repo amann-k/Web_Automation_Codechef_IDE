@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-28T10:32:31 IST" name="Surefire suite" finished-at="2025-09-28T10:32:56 IST" duration-ms="24942">
+    <groups>
+    </groups>
+    <test started-at="2025-09-28T10:32:31 IST" name="Surefire test" finished-at="2025-09-28T10:32:56 IST" duration-ms="24942">
+      <class name="com.qainfootest.CodingPlaygroundTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qainfootest.CodingPlaygroundTest@1cab0bfb]" started-at="2025-09-28T10:32:31 IST" name="setup" finished-at="2025-09-28T10:32:32 IST" duration-ms="877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLanguageSwitchAndCodeEntry()[pri:0, instance:com.qainfootest.CodingPlaygroundTest@1cab0bfb]" started-at="2025-09-28T10:32:32 IST" name="testLanguageSwitchAndCodeEntry" finished-at="2025-09-28T10:32:56 IST" duration-ms="23874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLanguageSwitchAndCodeEntry -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qainfootest.CodingPlaygroundTest@1cab0bfb]" started-at="2025-09-28T10:32:56 IST" name="teardown" finished-at="2025-09-28T10:32:56 IST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qainfootest.CodingPlaygroundTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
